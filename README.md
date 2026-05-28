@@ -1,72 +1,83 @@
-<!-- 1. SPANDUK UTAMA: GRADASI RECT GLITCH DENGAN TEKS HOLOGRAM -->
+<!-- 1. PREMIUM HEADER: CYBER GLASS SHARDS GRADIENT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=080018,4b0082,a020f0&height=220&section=header&text=%E2%96%AE%20BARID%20NST%20//%20CYBER%20NEURAL%20%E2%96%AE&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=45&animation=glitch&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=e6ccff,b366ff,ffffff&height=240&section=header&text=%E2%9C%A7%20BARID%20NST%20//%20FUTURE%20ARCHITECT%20%E2%9C%A7&fontSize=48&fontColor=1a0033&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" />
 </p>
 
-<!-- 2. STATUS LED HOLOGRAM -->
+<!-- 2. HOLOGRAM STATUS CONTROL -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_SYSTEM-OVERCLOCKED_v9.9-A020F0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖_AI_CORE-ACTIVE_100%25-ffffff?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/🔮_MODE-GOD_LEVEL-A020F0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_STAGE-EVOLUTION_MODE-b366ff?style=for-the-badge&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/🤖_ROLE-TECH_OVERLORD-1a0033?style=for-the-badge&labelColor=b366ff&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔮_STATUS-ON_PROGRESS-b366ff?style=for-the-badge&labelColor=ffffff" />
 </p>
 
 <br>
 
-<!-- 3. MAIN DASHBOARD VISUAL (TABEL 3D GLOW BACKGROUND) -->
-<table border="0" cellpadding="10" cellspacing="0" width="100%" bgcolor="#050010" style="border: 3px solid #a020f0; border-radius: 16px; box-shadow: 0px 0px 35px #a020f0;">
+<!-- 3. MAIN GLASSMORPHISM DASHBOARD -->
+<table border="0" cellpadding="15" cellspacing="0" width="100%" bgcolor="#fcf9ff" style="border: 3px solid #b366ff; border-radius: 20px; box-shadow: 0px 10px 30px rgba(179, 102, 255, 0.3);">
   <tr>
-    <!-- SECTOR KIRI: GRADASI TEKS TYPING FUTURISTIK & ROBOT MECHA ICON -->
-    <td width="55%" valign="center" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&letterSpacing=3&duration=2000&pause=500&color=ffffff&center=true&vCenter=true&width=450&lines=%5B+INITIALIZING+%5D;%5B+BARID+NST+%5D;%5B+CODE+OVERLORD+%5D" />
-      <br><br>
-      <!-- STRIP AKSI TERMINAL BERGERAK -->
-      <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&color=a020f0&background=00000000&center=true&vCenter=true&width=400&lines=%3E+LOADING+3D+GRAPHICS+ENGINE...;%3E+POLYMORPHIC+CODE+INJECTED...;%3E+BYPASSING+LIMITATIONS...;%3E+COMPILING+REALITY..." />
+    <!-- KOLOM KIRI: DESKRIPSI ELIT (UNGU & PUTIH) -->
+    <td width="60%" valign="top">
+      <h1 align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&letterSpacing=2&color=1a0033&center=false&vCenter=true&width=500&lines=A.+Barid+Dinda+Khair+N.;Information+Technology+Student;The+Next+Pro+Developer." alt="Typing Title" />
+      </h1>
+      
+      <p style="color: #330066; font-family: 'Share Tech Mono', monospace; font-size: 16px; line-height: 1.7; font-weight: 500;">
+        🌌 <b>[⚡ OVERVIEW.EXE]</b> <br>
+        Saya adalah Mahasiswa Teknologi Informasi sekaligus Freelance Web Developer & UI/UX Designer yang saat ini sedang berada di jalur evolusi. Berada di titik proses intensif, saya mendedikasikan setiap baris kode dan piksel desain untuk bertransformasi menjadi seorang profesional tingkat tinggi di industri digital. 
+      </p>
+      <p style="color: #7300e6; font-family: 'Courier New', monospace; font-size: 14px; font-weight: bold;">
+        <i>"Slowing down is not an option. Engineering flawless logic, designing breathtaking interfaces, mastering the craft."</i>
+      </p>
+      <br>
+      <!-- STRIP RESOLUSI TERMINAL -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&color=1a0033&background=e6ccff&center=false&vCenter=true&width=420&lines=%3E+Upgrading+skill+matrices...;%3E+Refining+UI%2FUX+paradigms...;%3E+Architecting+next-gen+web+solutions...;%3E+Professional+status%3A+Loading+99%25" alt="Terminal" />
     </td>
-    <!-- SECTOR KANAN: TEMPAT UTAMA ANIMASI JATUH CINTA (LOFI PURPLE GLOW) -->
-    <td width="45%" align="center" valign="middle" bgcolor="#09001a" style="border-left: 3px solid #a020f0; border-radius: 0 16px 16px 0;">
-      <p style="color: #ffffff; font-family: 'Orbitron', sans-serif; font-size: 12px; letter-spacing: 4px; margin-bottom: 12px;"><b>// NEURAL ROMANCE_</b></p>
-      <!-- ANIMASI PASANGAN UNGU NYALAKAN FILTERS GLOW -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcWZ1MXZ2Ynd4ZXh0dW96Yzg3NDh3ZndwOHV4M3VvM3Vsa2NneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcoYg1wI9SOfYCHhTq/giphy.gif" width="240" style="filter: drop-shadow(0px 0px 15px #a020f0); border: 2px solid #ffffff; border-radius: 8px; padding: 5px;" />
+    
+    <!-- KOLOM KANAN: EFEEK PECAHAN KACA & ANIMASI PASANGAN -->
+    <td width="40%" align="center" valign="middle" bgcolor="#ffffff" style="border-left: 3px solid #b366ff; border-radius: 0 20px 20px 0; background-image: radial-gradient(#e6ccff 1px, transparent 1px); background-size: 15px 15px;">
+      <p style="color: #1a0033; font-family: 'Orbitron', sans-serif; font-size: 11px; letter-spacing: 3px; margin-bottom: 12px;"><b>// CORE_ROMANCE</b></p>
+      <!-- ANIMASI PASANGAN DENGAN PANDING GLOW UNGU TRANSPARAN -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcWZ1MXZ2Ynd4ZXh0dW96Yzg3NDh3ZndwOHV4M3VvM3Vsa2NneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcoYg1wI9SOfYCHhTq/giphy.gif" width="220" style="filter: drop-shadow(0px 0px 12px #b366ff); border: 2px solid #b366ff; border-radius: 12px; padding: 5px; background: #ffffff;" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🔮 CYBERNETIC WEAPONRY (NEON TECH BADGES)
+### 🔮 DIGITAL ARSENAL (TECH STACK LABELS)
 
 <p align="center">
-  <!-- Semua badge teknologi diubah menjadi kapsul hitam dengan glow teks putih-ungu -->
-  <img src="https://img.shields.io/badge/PYTHON-050010?style=for-the-badge&logo=python&logoColor=A020F0&labelColor=050010" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-050010?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=050010" />
-  <img src="https://img.shields.io/badge/PHP-050010?style=for-the-badge&logo=php&logoColor=A020F0&labelColor=050010" />
-  <img src="https://img.shields.io/badge/LARAVEL-050010?style=for-the-badge&logo=laravel&logoColor=ffffff&labelColor=050010" />
-  <img src="https://img.shields.io/badge/LINUX-050010?style=for-the-badge&logo=linux&logoColor=A020F0&labelColor=050010" />
+  <!-- Badge dibuat bertema putih-ungu bersih bergaya minimalis modern -->
+  <img src="https://img.shields.io/badge/PYTHON-ffffff?style=for-the-badge&logo=python&logoColor=1a0033&labelColor=e6ccff" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-ffffff?style=for-the-badge&logo=javascript&logoColor=1a0033&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=1a0033&labelColor=e6ccff" />
+  <img src="https://img.shields.io/badge/LARAVEL-ffffff?style=for-the-badge&logo=laravel&logoColor=1a0033&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/FIGMA-ffffff?style=for-the-badge&logo=figma&logoColor=1a0033&labelColor=e6ccff" />
 </p>
 
 ---
 
-### 🛡️ ELITE 3D TROPHY ARCHIVE
+### 🛡️ ACHIEVEMENT ARCHIVE
 
 <p align="center">
-  <!-- Deretan piala pencapaian otomatis dengan efek kontras tinggi dracula-purple -->
-  <img src="https://github-profile-trophy.vercel.app/?username=BaridNst&theme=dracula&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title_color=ffffff&icon_color=a020f0" width="90%" />
+  <!-- Trophy khusus tema ungu putih transparan -->
+  <img src="https://github-profile-trophy.vercel.app/?username=BaridNst&theme=juicyfresh&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title_color=1a0033&icon_color=b366ff" width="90%" />
 </p>
 
 ---
 
-### 📊 DATA QUANTUM METRICS (SCI-FI DASHBOARD STATS)
+### 📊 DATA METRICS MATRIX
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="10">
     <tr>
-      <!-- STATS UTAMA DENGAN WARNA UNGU GELAP TOTAL -->
-      <td style="border: 2px solid #a020f0; border-radius: 12px; background-color: #050010; box-shadow: 0 0 15px #a020f0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=calm&title_color=a020f0&text_color=ffffff&icon_color=a020f0&bg_color=00000000&hide_border=true" height="195" />
+      <!-- STATS UTAMA TEMA GLASSMORPHISM TERANG -->
+      <td style="border: 2px solid #b366ff; border-radius: 16px; background-color: #ffffff; box-shadow: 0 8px 24px rgba(179, 102, 255, 0.15);">
+        <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=default&title_color=1a0033&text_color=330066&icon_color=b366ff&bg_color=00000000&hide_border=true" height="195" />
       </td>
-      <!-- TOP LANGUAGES DENGAN FORMAT COCOK -->
-      <td style="border: 2px solid #ffffff; border-radius: 12px; background-color: #050010; box-shadow: 0 0 15px #ffffff;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=calm&title_color=ffffff&text_color=ffffff&icon_color=a020f0&bg_color=00000000&hide_border=true" height="195" />
+      <!-- TOP LANGS MATCHING -->
+      <td style="border: 2px solid #b366ff; border-radius: 16px; background-color: #ffffff; box-shadow: 0 8px 24px rgba(179, 102, 255, 0.15);">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=default&title_color=1a0033&text_color=330066&icon_color=b366ff&bg_color=00000000&hide_border=true" height="195" />
       </td>
     </tr>
   </table>
@@ -74,7 +85,7 @@
 
 ---
 
-<!-- FOOTER SLICE GLITCH -->
+<!-- FOOTER GLASS SLICE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=a020f0&height=35&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=b366ff&height=30&section=footer" width="100%" />
 </p>
