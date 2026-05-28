@@ -21,10 +21,28 @@
 
 ## 🌌 THE EVOLUTION MATRIX
 
-> ### 🔮 [MISSION STATEMENT]
-> **Saya adalah Mahasiswa Teknologi Informasi sekaligus Freelance Web Developer & UI/UX Designer yang saat ini sedang berada di jalur evolusi.**
-> 
-> *Berada di titik proses intensif, saya mendedikasikan setiap baris kode dan piksel desain untuk bertransformasi menjadi seorang profesional tingkat tinggi di industri digital. Slowing down is not an option. Engineering flawless logic, designing breathtaking interfaces, mastering the craft.*
+<p align="left">
+  <!-- BARIS 1: JUDUL -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&letterSpacing=2&color=b366ff&vCenter=true&width=600&height=35&lines=%5B%F0%9F%94%AE+MISSION+STATEMENT+INITIALIZED%5D" alt="Line 1" /><br>
+  
+  <!-- BARIS 2: STATUS MHS -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=800&height=30&lines=Saya+adalah+Mahasiswa+Teknologi+Informasi..." alt="Line 2" /><br>
+  
+  <!-- BARIS 3: STATUS FREELANCE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=800&height=30&lines=...sekaligus+Freelance+Web+Developer+%26+UI%2FUX+Designer..." alt="Line 3" /><br>
+  
+  <!-- BARIS 4: JALUR EVOLUSI -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=800&height=30&lines=...yang+saat+ini+sedang+berada+di+jalur+evolusi." alt="Line 4" /><br>
+  
+  <!-- BARIS 5: PROSES INTENSIF -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=800&height=30&lines=Berada+di+titik+proses+intensif%2C+saya+mendedikasikan+setiap+baris+kode..." alt="Line 5" /><br>
+  
+  <!-- BARIS 6: TRANSFORMASI PRO -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=800&height=30&lines=...dan+piksel+desain+untuk+bertransformasi+menjadi+profesional+tingkat+tinggi." alt="Line 6" /><br>
+  
+  <!-- BARIS 7: SLOGAN PRO (GLITCH EFFECT) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&letterSpacing=1&color=ffffff&vCenter=true&width=800&height=35&lines=⚡+Slowing+down+is+not+an+option.+Mastering+the+craft." alt="Line 7" />
+</p>
 
 <br>
 
