@@ -40,8 +40,11 @@
   <!-- BARIS 6: TRANSFORMASI PRO -->
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=800&height=30&lines=...dan+piksel+desain+untuk+bertransformasi+menjadi+profesional+tingkat+tinggi." alt="Line 6" /><br>
   
-  <!-- BARIS 7: SLOGAN PRO (GLITCH EFFECT) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&letterSpacing=1&color=ffffff&vCenter=true&width=800&height=35&lines=⚡+Slowing+down+is+not+an+option.+Mastering+the+craft." alt="Line 7" />
+<!-- BARIS 7: SLOGAN PART 1 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&letterSpacing=1&color=ffffff&vCenter=true&width=800&height=30&lines=⚡+Slowing+down+is+not+an+option." alt="Line 7" /><br>
+  
+  <!-- BARIS 8: SLOGAN PART 2 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&letterSpacing=1&color=b366ff&vCenter=true&width=800&height=30&lines=Mastering+the+craft.+Engineering+flawless+logic." alt="Line 8" />
 </p>
 
 <br>
