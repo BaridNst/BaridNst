@@ -1,6 +1,6 @@
 <!-- 1. SPANDUK UTAMA: GELOMBANG GRADASI UNGU-PUTIH -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a0033&customColorList=1a0033,b366ff,ffffff&height=220&section=header&text=%E2%9C%A7%20BARID%20NST%20//%20FUTURE%20ARCHITECT%20%E2%9C%A7&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a0033&customColorList=1a0033,b366ff,ffffff&height=220&section=header&text=%E2%9C%A7%20BARID%20NST%20//%20TEKNOLOGI%20INFORMASI%20%E2%9C%A7&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
 </p>
 
 <!-- 2. STATUS BADGES -->
