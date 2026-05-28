@@ -12,9 +12,9 @@
 
 <br>
 
-<!-- 3. ROLE UTAMA: EFEK MENGETIK BERGERAK (YANG INI DIJAMIN BISA) -->
+<!-- 3. ROLE & SLOGAN UTAMA: SEMUA EFEK BERGERAK DIKUMPULKAN DI SINI (DIJAMIN LANCAR) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&letterSpacing=3&color=b366ff&center=true&vCenter=true&width=600&height=50&lines=INFORMATION+TECHNOLOGY+STUDENT;FREELANCE+WEB+DEVELOPER;FREELANCE+UI%2FUX+DESIGNER" alt="Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&letterSpacing=2&color=b366ff&center=true&vCenter=true&width=700&height=50&lines=INFORMATION+TECHNOLOGY+STUDENT;FREELANCE+WEB+DEVELOPER;FREELANCE+UI%2FUX+DESIGNER;SLOWING+DOWN+IS+NOT+AN+OPTION;MASTERING+THE+CRAFT" alt="Typing Text" />
 </p>
 
 ---
@@ -22,29 +22,32 @@
 ## 🌌 THE EVOLUTION MATRIX
 
 <p align="left">
-  <!-- BARIS 1: JUDUL -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&letterSpacing=2&color=b366ff&vCenter=true&width=600&height=35&lines=%5B%F0%9F%94%AE+MISSION+STATEMENT+INITIALIZED%5D" alt="Line 1" /><br>
+  <!-- BARIS 1 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&color=b366ff&vCenter=true&width=500&height=30&lines=%5B+MISSION+STATEMENT+INITIALIZED+%5D" alt="Line 1" /><br>
   
-  <!-- BARIS 2: STATUS MHS -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=800&height=30&lines=Saya+adalah+Mahasiswa+Teknologi+Informasi..." alt="Line 2" /><br>
+  <!-- BARIS 2 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=Saya+adalah+Mahasiswa+Teknologi+Informasi" alt="Line 2" /><br>
   
-  <!-- BARIS 3: STATUS FREELANCE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=800&height=30&lines=...sekaligus+Freelance+Web+Developer+%26+UI%2FUX+Designer..." alt="Line 3" /><br>
+  <!-- BARIS 3 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=sekaligus+Freelance+Web+Developer" alt="Line 3" /><br>
   
-  <!-- BARIS 4: JALUR EVOLUSI -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=800&height=30&lines=...yang+saat+ini+sedang+berada+di+jalur+evolusi." alt="Line 4" /><br>
+  <!-- BARIS 4 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=dan+UI-UX+Designer+yang+saat+ini" alt="Line 4" /><br>
   
-  <!-- BARIS 5: PROSES INTENSIF -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=800&height=30&lines=Berada+di+titik+proses+intensif%2C+saya+mendedikasikan+setiap+baris+kode..." alt="Line 5" /><br>
+  <!-- BARIS 5 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=sedang+berada+di+jalur+evolusi." alt="Line 5" /><br>
   
-  <!-- BARIS 6: TRANSFORMASI PRO -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=800&height=30&lines=...dan+piksel+desain+untuk+bertransformasi+menjadi+profesional+tingkat+tinggi." alt="Line 6" /><br>
+  <!-- BARIS 6 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=Berada+di+titik+proses+intensif" alt="Line 6" /><br>
   
-<!-- BARIS 7: SLOGAN PART 1 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&letterSpacing=1&color=ffffff&vCenter=true&width=800&height=30&lines=⚡+Slowing+down+is+not+an+option." alt="Line 7" /><br>
+  <!-- BARIS 7 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=saya+mendedikasikan+setiap+baris+kode" alt="Line 7" /><br>
   
-  <!-- BARIS 8: SLOGAN PART 2 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&letterSpacing=1&color=b366ff&vCenter=true&width=800&height=30&lines=Mastering+the+craft.+Engineering+flawless+logic." alt="Line 8" />
+  <!-- BARIS 8 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=dan+piksel+desain+untuk+bertransformasi" alt="Line 8" /><br>
+  
+  <!-- BARIS 9 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=menjadi+profesional+tingkat+tinggi." alt="Line 9" />
 </p>
 
 <br>
@@ -71,13 +74,13 @@
 ### 📊 REAL-TIME QUANTUM DATA
 
 <p align="center">
-  <!-- GRAFIK QUANTUM UNGU KAMU YANG SUDAH BERHASIL (DIAMANKAN) -->
+  <!-- KARTU GRAFIK QUANTUM UNGU UTAMA -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaridNst&bg_color=0f001e&color=b366ff&line=ffffff&point=b366ff&area=true&hide_border=false" width="100%" alt="Quantum Activity Graph" />
 </p>
 
 ---
 
-<!-- FOOTER GRADASI SLICE -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=b366ff&height=30&section=footer" width="100%" />
 </p>
