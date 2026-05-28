@@ -59,7 +59,7 @@
 
 ---
 
-### 🔮 DIGITAL ARSENAL
+### 🔮 MY STACK
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-1a0033?style=for-the-badge&logo=python&logoColor=ffffff" />
@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/PHP-1a0033?style=for-the-badge&logo=php&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/LARAVEL-b366ff?style=for-the-badge&logo=laravel&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/FIGMA-1a0033?style=for-the-badge&logo=figma&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/NAMA_TECH-WARNA_BG?style=for-the-badge&logo=nama_logo&logoColor=ffffff" />
 </p>
 
 ---
