@@ -1,6 +1,6 @@
-<!-- 1. SPANDUK GRADASI 3D + TEKS HOLOGRAM -->
+<!-- 1. SPANDUK UTAMA: GRADASI UNGU-PUTIH PECAHAN KACA 3D -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a0033,b366ff,ffffff&height=220&section=header&text=%E2%9C%A7%20BARID%20NST%20//%20FUTURE%20ARCHITECT%20%E2%9C%A7&fontSize=48&fontColor=ffffff&animation=fadeIn&stroke=1a0033&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a0033,b366ff,ffffff&height=240&section=header&text=%E2%9C%A7%20BARID%20NST%20//%20FUTURE%20ARCHITECT%20%E2%9C%A7&fontSize=48&fontColor=ffffff&animation=fadeIn&stroke=1a0033&strokeWidth=1" width="100%" />
 </p>
 
 <!-- 2. STATUS LED CYBER -->
@@ -12,24 +12,28 @@
 
 <br>
 
-<!-- 3. TITLE TYPING GRADIENT -->
+<!-- 3. KARTU DESKRIPSI UTAMA (BACKGROUND GRADASI DENGAN TEKS MENGETIK) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&letterSpacing=3&color=b366ff&center=true&vCenter=true&width=600&lines=INFORMATION+TECHNOLOGY+STUDENT;FREELANCE+WEB+DEVELOPER;FREELANCE+UI%2FUX+DESIGNER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&letterSpacing=2&color=b366ff&center=true&vCenter=true&width=600&height=50&lines=INFORMATION+TECHNOLOGY+STUDENT;FREELANCE+WEB+DEVELOPER;FREELANCE+UI%2FUX+DESIGNER" />
 </p>
 
----
+<p align="center">
+  <!-- Gambar pembatas geometri kaca -->
+  <img src="https://capsule-render.vercel.app/api?type=toast&color=1a0033&height=60&section=header&text=Slowing%20down%20is%20not%20an%20option.&fontSize=20&fontColor=ffffff" width="80%" />
+</p>
 
-## 🌌 THE EVOLUTION MATRIX
-
-> ### ⚡ MISSION STATEMENT
-> **Saya adalah Mahasiswa Teknologi Informasi sekaligus Freelance Web Developer & UI/UX Designer yang saat ini sedang berada di jalur evolusi.** 
-> *Berada di titik proses intensif, saya mendedikasikan setiap baris kode dan piksel desain untuk bertransformasi menjadi seorang profesional tingkat tinggi di industri digital. Slowing down is not an option. Engineering flawless logic, designing breathtaking interfaces, mastering the craft.*
+<blockquote>
+  <p align="center" style="font-family: 'Share Tech Mono', monospace; font-size: 16px; color: #1a0033;">
+    <b>🌌 [MISSION STATEMENT]</b><br>
+    Saya adalah Mahasiswa Teknologi Informasi sekaligus Freelance Web Developer & UI/UX Designer yang saat ini sedang berada di jalur evolusi. Berada di titik proses intensif, saya mendedikasikan setiap baris kode dan piksel desain untuk bertransformasi menjadi seorang profesional tingkat tinggi di industri digital.
+  </p>
+</blockquote>
 
 <br>
 
+<!-- 4. CENTERPIECE: ANIMASI PASANGAN JATUH CINTA (LOFI PURPLE) -->
 <p align="center">
-  <!-- ANIMASI PASANGAN JATUH CINTA (LOFI PURPLE) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcWZ1MXZ2Ynd4ZXh0dW96Yzg3NDh3ZndwOHV4M3VvM3Vsa2NneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcoYg1wI9SOfYCHhTq/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcWZ1MXZ2Ynd4ZXh0dW96Yzg3NDh3ZndwOHV4M3VvM3Vsa2NneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcoYg1wI9SOfYCHhTq/giphy.gif" width="250" style="border: 2px solid #b366ff; border-radius: 12px; padding: 5px;" />
 </p>
 
 ---
@@ -49,12 +53,13 @@
 ### 📊 REAL-TIME QUANTUM DATA
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=transparent&title_color=b366ff&text_color=1a0033&icon_color=b366ff&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=transparent&title_color=b366ff&text_color=1a0033&icon_color=b366ff&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=transparent&title_color=b366ff&text_color=b366ff&icon_color=1a0033&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=transparent&title_color=b366ff&text_color=b366ff&icon_color=1a0033&hide_border=true" height="180" />
 </p>
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=1a0033&height=30&section=footer" width="100%" />
 </p>
