@@ -1,9 +1,9 @@
-<!-- 1. SPANDUK UTAMA: GRADASI UNGU NEON & PUTIH (TEMA TOKYONIGHT) -->
+<!-- 1. SPANDUK UTAMA: ANIMASI GELOMBANG GRADASI UNGU-PUTIH -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b366ff&customColorList=1a0033,b366ff,ffffff&height=220&section=header&text=%E2%9C%A7%20BARID%20NST%20//%20FUTURE%20ARCHITECT%20%E2%9C%A7&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a0033&customColorList=1a0033,b366ff,ffffff&height=220&section=header&text=%E2%9C%A7%20BARID%20NST%20//%20FUTURE%20ARCHITECT%20%E2%9C%A7&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
 </p>
 
-<!-- 2. STATUS BADGES HIGH-CONTRAST -->
+<!-- 2. STATUS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%9A%A1_STAGE-EVOLUTION_MODE-b366ff?style=for-the-badge&labelColor=1a0033" />
   <img src="https://img.shields.io/badge/%F0%9F%A4%96_ROLE-TECH_OVERLORD-ffffff?style=for-the-badge&labelColor=b366ff&logoColor=1a0033" />
@@ -12,28 +12,22 @@
 
 <br>
 
-<!-- 3. ANIMATED GLITCH TYPING FOR ROLES -->
+<!-- 3. ROLE TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&letterSpacing=3&color=ffffff&center=true&vCenter=true&width=600&height=50&lines=INFORMATION+TECHNOLOGY+STUDENT;FREELANCE+WEB+DEVELOPER;FREELANCE+UI%2FUX+DESIGNER" alt="Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&letterSpacing=3&color=b366ff&center=true&vCenter=true&width=600&height=50&lines=INFORMATION+TECHNOLOGY+STUDENT;FREELANCE+WEB+DEVELOPER;FREELANCE+UI%2FUX+DESIGNER" alt="Typing Text" />
 </p>
 
 ---
 
 ## 🌌 THE EVOLUTION MATRIX
 
-<blockquote>
-  <p align="center" style="font-family: 'Share Tech Mono', monospace; font-size: 16px;">
-    <b>🌌 [MISSION STATEMENT]</b><br>
-    Saya adalah Mahasiswa Teknologi Informasi sekaligus Freelance Web Developer & UI/UX Designer yang saat ini sedang berada di jalur evolusi. Berada di titik proses intensif, saya mendedikasikan setiap baris kode dan piksel desain untuk bertransformasi menjadi seorang profesional tingkat tinggi di industri digital.
-  </p>
-</blockquote>
-
-<br>
-
-<!-- 4. AMBIENT GRAPHICS CENTERPIECE -->
 <p align="center">
-  <!-- Menggunakan animasi siber berbasis SVG yang jauh lebih stabil daripada Giphy link -->
-  <img src="https://assets.digitalocean.com/blog/custom-images/how-to-build-a-glowing-effect-with-css/glowing-neon-ring.gif" width="220" alt="Cyber Core" style="border-radius: 50%;" />
+  <!-- EFEK TULISAN BERGERAK UNTUK MISSION STATEMENT (TIAP DATA BERGANTI OTOMATIS) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&letterSpacing=1&color=ffffff&center=true&vCenter=true&width=850&height=160&duration=4000&lines=🌌+%5BMISSION+STATEMENT+INITIALIZED%5D;Saya+adalah+Mahasiswa+Teknologi+Informasi+sekaligus+Freelance+Web+Developer...;...dan+UI%2FUX+Designer+yang+saat+ini+sedang+berada+di+jalur+evolusi.;Berada+di+titik+proses+intensif%2C+saya+mendedikasikan+setiap+baris+kode+dan+piksel+desain...;...untuk+bertransformasi+menjadi+seorang+profesional+tingkat+tinggi+di+industri+digital.;⚡+%5BSlowing+down+is+not+an+option.+Engineering+flawless+logic.%5D" alt="Animated Bio" />
+</p>
+
+<p align="center">
+  <img src="https://assets.digitalocean.com/blog/custom-images/how-to-build-a-glowing-effect-with-css/glowing-neon-ring.gif" width="160" alt="Cyber Core" />
 </p>
 
 ---
@@ -53,10 +47,15 @@
 ### 📊 REAL-TIME QUANTUM DATA
 
 <p align="center">
-  <!-- Menggunakan tema 'dracula' solid dengan teks putih terang agar tidak ngeblank/samar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=dracula&title_color=b366ff&text_color=ffffff&icon_color=b366ff&hide_border=false" height="180" alt="GitHub Stats" />
+  <!-- GRAPH ELEMEN AKTIVITAS DENGAN EFEK ANIMASI GELOMBANG GRADASI UNGU (DIJAMIN MUNCUL & TIDAK BLANK) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaridNst&bg_color=0f001e&color=b366ff&line=ffffff&point=b366ff&area=true&hide_border=false" width="100%" alt="Quantum Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- STATS ALTERNATIF DENGAN TEMA GRADASI TOKYONIGHT UNTUK MEMASTIKAN DATA TERISI -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=tokyonight&title_color=b366ff&text_color=ffffff&icon_color=b366ff&hide_border=false" height="180" alt="Stats 1" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=dracula&title_color=b366ff&text_color=ffffff&icon_color=b366ff&hide_border=false" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=tokyonight&title_color=b366ff&text_color=ffffff&icon_color=b366ff&hide_border=false" height="180" alt="Stats 2" />
 </p>
 
 ---
