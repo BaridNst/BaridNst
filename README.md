@@ -1,96 +1,87 @@
-<!-- Header Animasi Melambai -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20To%20My%20Universe&fontSize=45&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=A.Barid%20Dinda%20Khair%20Nasution&descAlignY=55&descAlign=50" width="100%" />
-</div>
-
-<div align="center">
-
-  <!-- Efek Animasi Mengetik -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Barid;Mahasiswa+IT+yang+Selalu+Berkembang;Front-End+Web+Enthusiast;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
-  </a>
-
-  <!-- Visitor Counter -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=BaridNst&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-  </p>
-
-  <!-- Social Links -->
-  <p>
-    <a href="https://portofoliobangbarid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://www.instagram.com/a.baridnasution"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
-</div>
-
-<br>
-
----
-
-### 👨‍💻 About Me
-* 🎓 Mahasiswa yang bersemangat mengeksplorasi dunia Teknologi Informasi.
-* 🌍 Berbasis di **Aceh Singkil, Indonesia**.
-* 🚀 Sedang fokus belajar dan mengembangkan antarmuka web modern (UI/UX & Front-End).
-* 💡 Percaya bahwa setiap baris kode adalah langkah menuju inovasi.
-
-<br>
-
-### 🛠️ Tech Stack & Arsenal
+<!-- 1. SPANDUK UTAMA: GELOMBANG GRADASI UNGU-PUTIH -->
 <p align="center">
-  <!-- Bahasa & Framework -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a0033&customColorList=1a0033,b366ff,ffffff&height=220&section=header&text=%E2%9C%A7%20BARID%20NST%20//%20TEKNOLOGI%20INFORMASI%20%E2%9C%A7&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
+</p>
+
+<!-- 2. STATUS BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9A%A1_STAGE-EVOLUTION_MODE-b366ff?style=for-the-badge&labelColor=1a0033" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_ROLE-TECH_OVERLORD-ffffff?style=for-the-badge&labelColor=b366ff&logoColor=1a0033" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%AE_STATUS-ON_PROGRESS-b366ff?style=for-the-badge&labelColor=1a0033" />
 </p>
 
 <br>
 
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaridNst&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
-<br>
-
-### 📊 GitHub Analytics
-<div align="center">
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaridNst&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-  <br><br>
-
-  <!-- Stats Grid -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
-  
-  <br><br>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaridNst&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br>
+<!-- 3. ROLE & SLOGAN UTAMA: SEMUA EFEK BERGERAK DIKUMPULKAN DI SINI (DIJAMIN LANCAR) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&letterSpacing=2&color=b366ff&center=true&vCenter=true&width=700&height=50&lines=INFORMATION+TECHNOLOGY+STUDENT;FREELANCE+WEB+DEVELOPER;FREELANCE+UI%2FUX+DESIGNER;SLOWING+DOWN+IS+NOT+AN+OPTION;MASTERING+THE+CRAFT" alt="Typing Text" />
+</p>
 
 ---
 
-### 💬 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
+## 🌌 THE EVOLUTION MATRIX
 
-<!-- Footer Animasi -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
-</div>
+<p align="left">
+  <!-- BARIS 1 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&color=b366ff&vCenter=true&width=500&height=30&lines=%5B+MISSION+STATEMENT+INITIALIZED+%5D" alt="Line 1" /><br>
+  
+  <!-- BARIS 2 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=Saya+adalah+Mahasiswa+Teknologi+Informasi" alt="Line 2" /><br>
+  
+  <!-- BARIS 3 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=sekaligus+Freelance+Web+Developer" alt="Line 3" /><br>
+  
+  <!-- BARIS 4 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=dan+UI-UX+Designer+yang+saat+ini" alt="Line 4" /><br>
+  
+  <!-- BARIS 5 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=sedang+berada+di+jalur+evolusi." alt="Line 5" /><br>
+  
+  <!-- BARIS 6 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=Berada+di+titik+proses+intensif" alt="Line 6" /><br>
+  
+  <!-- BARIS 7 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=saya+mendedikasikan+setiap+baris+kode" alt="Line 7" /><br>
+  
+  <!-- BARIS 8 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=dan+piksel+desain+untuk+bertransformasi" alt="Line 8" /><br>
+  
+  <!-- BARIS 9 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=menjadi+profesional+tingkat+tinggi." alt="Line 9" />
+</p>
+
+<br>
+
+<p align="center">
+  <!-- ANIMASI CORE NEON BERPUTAR -->
+  <img src="https://assets.digitalocean.com/blog/custom-images/how-to-build-a-glowing-effect-with-css/glowing-neon-ring.gif" width="140" alt="Cyber Core" />
+</p>
+
+---
+
+### 🔮 MY STACK
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-1a0033?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-b366ff?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/PHP-1a0033?style=for-the-badge&logo=php&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/LARAVEL-b366ff?style=for-the-badge&logo=laravel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/FIGMA-1a0033?style=for-the-badge&logo=figma&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/NAMA_TECH-WARNA_BG?style=for-the-badge&logo=nama_logo&logoColor=ffffff" />
+</p>
+
+---
+
+### 📊 REAL-TIME QUANTUM DATA
+
+<p align="center">
+  <!-- KARTU GRAFIK QUANTUM UNGU UTAMA -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaridNst&bg_color=0f001e&color=b366ff&line=ffffff&point=b366ff&area=true&hide_border=false" width="100%" alt="Quantum Activity Graph" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=b366ff&height=30&section=footer" width="100%" />
+</p>
