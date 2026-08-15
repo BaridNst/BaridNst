@@ -46,18 +46,13 @@
 
 ---
 
-### 🔮 TECH ARSENAL
+### 🔮 MY STACK (UPGRADED)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-1a0033?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-b366ff?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JS" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-1a0033?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TS" />
-  <img src="https://img.shields.io/badge/PHP-b366ff?style=for-the-badge&logo=php&logoColor=ffffff" alt="PHP" />
-  <img src="https://img.shields.io/badge/LARAVEL-1a0033?style=for-the-badge&logo=laravel&logoColor=ffffff" alt="Laravel" />
-  <img src="https://img.shields.io/badge/REACT-b366ff?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
-  <img src="https://img.shields.io/badge/NEXT.JS-1a0033?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="NextJS" />
-  <img src="https://img.shields.io/badge/FLUTTER-b366ff?style=for-the-badge&logo=flutter&logoColor=ffffff" alt="Flutter" />
-  <img src="https://img.shields.io/badge/FIGMA-1a0033?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma" />
+  <!-- Upgrade: Menggunakan Skillicons yang elegan tapi tetap mempertahankan nuansa Dark/Cyber -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,react,nextjs,laravel,flutter,tailwind,mysql,figma,github,vscode&theme=dark&perline=7" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
