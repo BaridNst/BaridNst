@@ -1,46 +1,59 @@
-<div align="center">
+<!-- ==========================================
+     [ 1. EPIC CYBERPUNK BANNER ] 
+     ========================================== -->
+<p align="center">
+  <!-- Banner GIF yang sangat keren & premium -->
+  <img src="https://i.pinimg.com/originals/18/43/d2/1843d22bdf559c5d7dd3ef0465a31a9d.gif" width="100%" height="220" style="object-fit: cover; border-radius: 12px;" alt="Cyber Banner" />
+</p>
 
 <!-- ==========================================
-     [ 1. THE EPIC HOLOGRAM BANNER ] 
+     [ 2. TYPING ANIMATION & BIO ] 
      ========================================== -->
-<!-- Header animasi gelombang Synthwave (Purple to Cyan) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=14002e,9d00ff,00f0ff&height=220&section=header&text=BARID%20NASUTION&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=MASTERY%20THROUGH%20ITERATION%20//%20FULL-STACK%20DEV&descAlignY=55&descSize=16" width="100%" alt="Header" />
+<p align="center">
+  <!-- Typing nama dan role (Pasti Muncul) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&pause=1000&color=B366FF&center=true&vCenter=true&width=800&height=70&lines=BARID+NASUTION;TECH+OVERLORD;FULLSTACK+DEVELOPER;UI%2FUX+DESIGNER" alt="Typing Name" />
+</p>
+
+<p align="center">
+  <i>"Slowing down is not an option. Transforming abstract logic into precise digital execution."</i>
+</p>
+
+<!-- ==========================================
+     [ 3. SOCIAL CONNECTION ] 
+     ========================================== -->
+<p align="center">
+  <a href="https://portofoliobangbarid.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=B366FF&labelColor=1a0033" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/linkedin-kamu"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=B366FF&labelColor=1a0033" alt="LinkedIn" /></a>
+  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=B366FF&labelColor=1a0033" alt="Email" /></a>
+  <a href="https://instagram.com/a.baridnasution"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=B366FF&labelColor=1a0033" alt="Instagram" /></a>
+</p>
 
 <br>
 
 <!-- ==========================================
-     [ 2. NEON CYBER SHIELDS (SOCIALS) ] 
+     [ 4. TECH ARSENAL (SKILLICONS) ] 
      ========================================== -->
-<!-- Tombol dengan desain custom: Logo Cyan, Background Dark, Border Purple -->
-<a href="https://portofoliobangbarid.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0D1117&color=9d00ff" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/linkedin-kamu"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0D1117&color=9d00ff" alt="LinkedIn" /></a>
-<a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=0D1117&color=9d00ff" alt="Email" /></a>
-<a href="https://instagram.com/a.baridnasution"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00f0ff&labelColor=0D1117&color=9d00ff" alt="Instagram" /></a>
+<h2 align="center" style="color: #B366FF;">⚙️ <code>TECH_ARSENAL</code></h2>
 
-<br><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Ikon dipastikan muncul karena tidak ada div pembungkus yang merusak markdown -->
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,react,nextjs,laravel,flutter,tailwind,mysql,figma,git,github,vscode&theme=dark&perline=10" alt="Tech Stack" />
+  </a>
+</p>
 
-<!-- Terminal Execution Log -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=2000&color=00f0ff&center=true&vCenter=true&width=600&height=40&lines=root@baridnst:~%24+./execute_vision.sh;%5B+%E2%9C%93+%5D+Dependencies+Loaded;%5B+%E2%9C%93+%5D+Logic+Compiled;%5B+%E2%9C%93+%5D+System+Ready_!" alt="Terminal Log" />
-
-</div>
-
----
+<br>
 
 <!-- ==========================================
-     [ 3. SYSTEM CORE (PYTHON SCRIPT) ] 
+     [ 5. SYSTEM ANALYTICS (STATS) ] 
      ========================================== -->
-### 👾 `/> system_profile.py`
+<h2 align="center" style="color: #B366FF;">📊 <code>QUANTUM_TELEMETRY</code></h2>
 
-```python
-#!/usr/bin/env python3
-import cyberspace
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=tokyonight&title_color=B366FF&text_color=a9b1d6&icon_color=B366FF&bg_color=0D1117&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=tokyonight&title_color=B366FF&text_color=a9b1d6&bg_color=0D1117&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
 
-class TechOverlord(cyberspace.Entity):
-    def __init__(self):
-        self.name = "A. Barid Dinda Khair Nasution"
-        self.role = "IT Student & Software Engineer"
-        self.focus = ["Fullstack Web Development", "UI/UX Architecture"]
-        self.status = "Evolving & Mastering the Craft"
-
-    def deploy_vision(self):
-        return "Mengubah logika abstrak menjadi eksekusi digital yang presisi."
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaridNst&bg_color=0D1117&color=B366FF&line=B366FF&point=ffffff&area=true&hide_border=true&border_radius=10" width="100%" alt="Activity Graph" />
+</p>
