@@ -1,35 +1,87 @@
-<!-- 1. TERMINAL BOOT ANIMATION (HEADER) -->
+<!-- 1. SPANDUK UTAMA: GELOMBANG GRADASI UNGU-PUTIH -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=800&color=D980FA&background=0A0014&center=true&vCenter=true&width=800&height=120&lines=root%40cyberspace%3A~%2Fsrc%24+python+exploit.py;%3E+Initializing+connection...;%5BSYSTEM%5D+BYPASS_FIREWALL(TARGET%2C+PORTS)...;%3E+connection_established...+ACCESS_GRANTED...;Host%3A+MATRIX_CORE_SERVER_9000+%7C+User%3A+BARID_NST" alt="Terminal Boot" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a0033&customColorList=1a0033,b366ff,ffffff&height=220&section=header&text=%E2%9C%A7%20BARID%20NST%20//%20TEKNOLOGI%20INFORMASI%20%E2%9C%A7&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
 </p>
 
-<!-- 2. ANIMASI FALLING CODE / GLITCH (OPSIONAL - MENGGUNAKAN GIF) -->
+<!-- 2. STATUS BADGES -->
 <p align="center">
-  <!-- Jika kamu punya GIF Matrix Ungu sendiri, ganti link di bawah. Ini adalah GIF Cyber/Glitch sebagai representasi -->
-  <img src="https://i.pinimg.com/originals/2b/ed/21/2bed219bba972e399ab7ef0a887b411d.gif" width="100%" height="120" style="object-fit: cover; opacity: 0.7;" alt="Matrix Data Stream" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1_STAGE-EVOLUTION_MODE-b366ff?style=for-the-badge&labelColor=1a0033" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_ROLE-TECH_OVERLORD-ffffff?style=for-the-badge&labelColor=b366ff&logoColor=1a0033" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%AE_STATUS-ON_PROGRESS-b366ff?style=for-the-badge&labelColor=1a0033" />
+</p>
+
+<br>
+
+<!-- 3. ROLE & SLOGAN UTAMA: SEMUA EFEK BERGERAK DIKUMPULKAN DI SINI (DIJAMIN LANCAR) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&letterSpacing=2&color=b366ff&center=true&vCenter=true&width=700&height=50&lines=INFORMATION+TECHNOLOGY+STUDENT;FREELANCE+WEB+DEVELOPER;FREELANCE+UI%2FUX+DESIGNER;SLOWING+DOWN+IS+NOT+AN+OPTION;MASTERING+THE+CRAFT" alt="Typing Text" />
 </p>
 
 ---
 
-## 👾 `[ system_data_stream ]`
+## 🌌 THE EVOLUTION MATRIX
 
-```python
-#!/usr/bin/env python3
-# [SYSTEM ERROR] ACCESS DENIED: RE-TRIAGING LOGIN...
-# ACCESS_GRANTED... 
+<p align="left">
+  <!-- BARIS 1 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&color=b366ff&vCenter=true&width=500&height=30&lines=%5B+MISSION+STATEMENT+INITIALIZED+%5D" alt="Line 1" /><br>
+  
+  <!-- BARIS 2 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=Saya+adalah+Mahasiswa+Teknologi+Informasi" alt="Line 2" /><br>
+  
+  <!-- BARIS 3 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=sekaligus+Freelance+Web+Developer" alt="Line 3" /><br>
+  
+  <!-- BARIS 4 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=dan+UI-UX+Designer+yang+saat+ini" alt="Line 4" /><br>
+  
+  <!-- BARIS 5 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=sedang+berada+di+jalur+evolusi." alt="Line 5" /><br>
+  
+  <!-- BARIS 6 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=Berada+di+titik+proses+intensif" alt="Line 6" /><br>
+  
+  <!-- BARIS 7 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=saya+mendedikasikan+setiap+baris+kode" alt="Line 7" /><br>
+  
+  <!-- BARIS 8 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=dan+piksel+desain+untuk+bertransformasi" alt="Line 8" /><br>
+  
+  <!-- BARIS 9 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=menjadi+profesional+tingkat+tinggi." alt="Line 9" />
+</p>
 
-class TechOverlord:
-    def __init__(self):
-        self.id = "BARID_NST"
-        self.roles = ["IT Student", "Web Developer", "UI/UX Designer"]
-        self.status = "EVOLUTION_MODE_ACTIVE"
-        self.base = "Cyberspace // Matrix Server"
+<br>
 
-    def execute_protocol(self):
-        print("Slowing down is not an option.")
-        print("Searching for vulnerabilities... 100%")
-        print("Mastering the craft... IN_PROGRESS")
-        return self.roles
+<p align="center">
+  <!-- ANIMASI CORE NEON BERPUTAR -->
+  <img src="https://assets.digitalocean.com/blog/custom-images/how-to-build-a-glowing-effect-with-css/glowing-neon-ring.gif" width="140" alt="Cyber Core" />
+</p>
 
-user = TechOverlord()
-user.execute_protocol()
+---
+
+### 🔮 MY STACK
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-1a0033?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-b366ff?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/PHP-1a0033?style=for-the-badge&logo=php&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/LARAVEL-b366ff?style=for-the-badge&logo=laravel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/FIGMA-1a0033?style=for-the-badge&logo=figma&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/NAMA_TECH-WARNA_BG?style=for-the-badge&logo=nama_logo&logoColor=ffffff" />
+</p>
+
+---
+
+### 📊 REAL-TIME QUANTUM DATA
+
+<p align="center">
+  <!-- KARTU GRAFIK QUANTUM UNGU UTAMA -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaridNst&bg_color=0f001e&color=b366ff&line=ffffff&point=b366ff&area=true&hide_border=false" width="100%" alt="Quantum Activity Graph" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=b366ff&height=30&section=footer" width="100%" />
+</p>
