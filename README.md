@@ -46,7 +46,7 @@
 
 ---
 
-### 🔮 MY STACK (UPGRADED)
+### 🔮 MY STACK 
 
 <p align="center">
   <!-- Upgrade: Menggunakan Skillicons yang elegan tapi tetap mempertahankan nuansa Dark/Cyber -->
