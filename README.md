@@ -66,44 +66,35 @@
 
 ---
 
-### 🔮 MY STACK (UPGRADED)
-
-<p align="center">
-  <!-- Upgrade: Menggunakan Skillicons yang elegan tapi tetap mempertahankan nuansa Dark/Cyber -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,react,nextjs,laravel,flutter,tailwind,mysql,figma,github,vscode&theme=dark&perline=7" alt="Tech Stack" />
-  </a>
-</p>
-
----
-
 ### 📊 REAL-TIME QUANTUM DATA
 
 <p align="center">
-  <!-- Animasi Loading -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&color=b366ff&center=true&vCenter=true&width=500&height=30&lines=Fetching+Quantum+Telemetry...;Data+Retrieved+Successfully+_+100%25" alt="Loading Stats" />
+  <!-- Animasi Terminal Loading & Bypassing Cache -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&color=b366ff&center=true&vCenter=true&width=500&height=30&lines=Bypassing+GitHub+Camo+Cache...;Fetching+Quantum+Telemetry...;Data+Retrieved+Successfully+_+100%25" alt="Loading Stats" />
 </p>
 
 <!-- 1. GITHUB TROPHIES (Gamifikasi Pencapaian) -->
 <p align="center">
   <a href="https://github.com/BaridNst">
-    <img src="https://github-profile-trophy.vercel.app/?username=BaridNst&theme=radical&margin-w=15&no-bg=true&no-frame=true" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=BaridNst&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title_color=b366ff&text_color=ffffff&v=2" alt="Trophy" />
   </a>
 </p>
 
-<!-- 2. STATS & STREAK (Bersebelahan Secara Natural) -->
+<!-- 2. STATS & STREAK (Bersebelahan) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=radical&title_color=b366ff&text_color=ffffff&icon_color=b366ff&bg_color=0f001e&hide_border=true&border_radius=5" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaridNst&theme=radical&fire=b366ff&ring=b366ff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&bg_color=0f001e&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=radical&title_color=b366ff&text_color=ffffff&icon_color=b366ff&bg_color=0f001e&hide_border=true&border_radius=5&v=2" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak (Diganti ke server demolab yang lebih stabil) -->
+  <img src="https://streak-stats.demolab.com/?user=BaridNst&theme=radical&fire=b366ff&ring=b366ff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&bg_color=0f001e&hide_border=true&border_radius=5&v=2" alt="GitHub Streak" />
 </p>
 
-<!-- 3. TOP LANGUAGES -->
+<!-- 3. TOP LANGUAGES (Rata Tengah) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=radical&title_color=b366ff&text_color=ffffff&bg_color=0f001e&hide_border=true&border_radius=5&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=radical&title_color=b366ff&text_color=ffffff&bg_color=0f001e&hide_border=true&border_radius=5&langs_count=6&v=2" alt="Top Languages" />
 </p>
 
-<!-- 4. ACTIVITY GRAPH (Ini dibiarkan full karena format aslimu) -->
+<!-- 4. ACTIVITY GRAPH (Lebar Penuh) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaridNst&bg_color=0f001e&color=b366ff&line=ffffff&point=b366ff&area=true&hide_border=true&border_radius=5" width="100%" alt="Quantum Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaridNst&bg_color=0f001e&color=b366ff&line=ffffff&point=b366ff&area=true&hide_border=true&border_radius=5&v=2" width="100%" alt="Quantum Activity Graph" />
 </p>
