@@ -1,66 +1,63 @@
-<!-- ==========================================
-     [ 1. EPIC PURPLE TECH BANNER (HEADER) ] 
-     ========================================== -->
+<!-- ================================================================= -->
+<!-- [01. CYBERPUNK HUD HEADER: NEON MATRIX SHIELD]                    -->
+<!-- ================================================================= -->
 <p align="center">
-  <!-- Menggunakan banner beranimasi dengan nuansa teknologi ungu futuristik -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f001e&customColorList=1a0033,4b0082,8a2be2,b366ff&height=240&section=header&text=%E2%9C%A7%20BARID%20NST%20//%20TECH%20OVERLORD%20%E2%9C%A7&fontSize=38&fontColor=ffffff&animation=twinkling&desc=INFORMATICS%20ENGINEERING%20%7C%20WEB%20DEV%20%7C%20UI%2FX%20DESIGN&descAlignY=75&descAlign=50" width="100%" alt="Tech Purple Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0f001e&customColorList=1a0033,4b0082,8a2be2,b366ff&height=250&section=header&text=%E2%9C%A7%20BARID%20NST%20//%20SYSTEM_OVERLORD%20%E2%9C%A7&fontSize=36&fontColor=ffffff&animation=twinkling&desc=INFORMATICS%20ENGINEERING%20%7C%20FULLSTACK%20DEV%20%7C%20UI/UX%20ARCHITECT&descAlignY=78&descAlign=50" width="100%" alt="Cyberpunk Header" />
 </p>
 
-<!-- ==========================================
-     [ 2. STATUS BADGES & CONNECTIONS ] 
-     ========================================== -->
+<!-- ================================================================= -->
+<!-- [02. SYSTEM STATUS & DIRECT ACCESS TERMINAL]                    -->
+<!-- ================================================================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9A%A1_STAGE-EVOLUTION_MODE-b366ff?style=for-the-badge&labelColor=1a0033" alt="Stage" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96_ROLE-TECH_OVERLORD-ffffff?style=for-the-badge&labelColor=b366ff&logoColor=1a0033" alt="Role" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%AE_STATUS-ON_PROGRESS-b366ff?style=for-the-badge&labelColor=1a0033" alt="Status" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1_CORE-EVOLUTION_MODE_v2.5-b366ff?style=for-the-badge&labelColor=0f001e" alt="Stage" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_ACCESS-LEVEL_OVERLORD-ffffff?style=for-the-badge&labelColor=b366ff&logoColor=0f001e" alt="Role" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%AE_STATUS-UNSTOPPABLE-b366ff?style=for-the-badge&labelColor=0f001e" alt="Status" />
 </p>
 
 <p align="center">
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a0033?style=flat-square&logo=gmail&logoColor=b366ff&color=ffffff" alt="Email"/></a>
-  <a href="https://linkedin.com/in/linkedin-kamu"><img src="https://img.shields.io/badge/LINKEDIN-1a0033?style=flat-square&logo=linkedin&logoColor=b366ff&color=ffffff" alt="LinkedIn"/></a>
-  <a href="https://portofoliobangbarid.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1a0033?style=flat-square&logo=vercel&logoColor=b366ff&color=ffffff" alt="Portfolio"/></a>
-  <a href="https://instagram.com/a.baridnasution"><img src="https://img.shields.io/badge/INSTAGRAM-1a0033?style=flat-square&logo=instagram&logoColor=b366ff&color=ffffff" alt="Instagram"/></a>
+  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/SECURE_MAIL-0f001e?style=flat-square&logo=gmail&logoColor=b366ff&color=ffffff" alt="Email"/></a>
+  <a href="https://linkedin.com/in/linkedin-kamu"><img src="https://img.shields.io/badge/NETWORK_LN-0f001e?style=flat-square&logo=linkedin&logoColor=b366ff&color=ffffff" alt="LinkedIn"/></a>
+  <a href="https://portofoliobangbarid.vercel.app/"><img src="https://img.shields.io/badge/PORTAL_WEB-0f001e?style=flat-square&logo=vercel&logoColor=b366ff&color=ffffff" alt="Portfolio"/></a>
+  <a href="https://instagram.com/a.baridnasution"><img src="https://img.shields.io/badge/FEED_IG-0f001e?style=flat-square&logo=instagram&logoColor=b366ff&color=ffffff" alt="Instagram"/></a>
 </p>
 
 <br>
 
-<!-- ==========================================
-     [ 3. ROLE & SLOGAN UTAMA (TYPING ANIMATION) ] 
-     ========================================== -->
+<!-- ================================================================= -->
+<!-- [03. DYNAMIC HUD TYPING STREAM]                                  -->
+<!-- ================================================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&letterSpacing=2&color=b366ff&center=true&vCenter=true&width=700&height=50&lines=INFORMATION+TECHNOLOGY+STUDENT;FREELANCE+WEB+DEVELOPER;FREELANCE+UI%2FUX+DESIGNER;SLOWING+DOWN+IS+NOT+AN+OPTION;MASTERING+THE+CRAFT" alt="Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&letterSpacing=2&color=b366ff&center=true&vCenter=true&width=800&height=50&lines=INFORMATION+TECHNOLOGY+STUDENT;FREELANCE+FULLSTACK+WEB+DEVELOPER;FREELANCE+UI%2FUX+DESIGNER;SLOWING+DOWN+IS+NOT+AN+OPTION;MASTERING+THE+CYBER+CRAFT" alt="Typing Text" />
 </p>
 
 ---
 
-<!-- ==========================================
-     [ 4. THE EVOLUTION MATRIX ] 
-     ========================================== -->
-<h2 align="center">🌌 THE EVOLUTION MATRIX 🌌</h2>
+<!-- ================================================================= -->
+<!-- [04. THE EVOLUTION MATRIX CONSOLE]                                -->
+<!-- ================================================================= -->
+<h2 align="center"><code>🌌 [ THE_EVOLUTION_MATRIX.exe ]</code></h2>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&color=b366ff&vCenter=true&width=500&height=30&lines=%5B+MISSION+STATEMENT+INITIALIZED+%5D" alt="Line 1" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=Saya+adalah+Mahasiswa+Teknologi+Informasi" alt="Line 2" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=sekaligus+Freelance+Web+Developer" alt="Line 3" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=dan+UI-UX+Designer+yang+saat+ini" alt="Line 4" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=sedang+berada+di+jalur+evolusi." alt="Line 5" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=ffffff&vCenter=true&width=500&height=30&lines=Berada+di+titik+proses+intensif" alt="Line 6" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=saya+mendedikasikan+setiap+baris+kode" alt="Line 7" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=dan+piksel+desain+untuk+bertransformasi" alt="Line 8" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&color=b366ff&vCenter=true&width=500&height=30&lines=menjadi+profesional+tingkat+tinggi." alt="Line 9" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&color=b366ff&vCenter=true&width=550&height=30&lines=%5B+MISSION_STATEMENT+%3A%3A+INITIALIZED+%5D" alt="Line 1" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&color=ffffff&vCenter=true&width=550&height=30&lines=%3E_Mahasiswa_Teknologi_Informasi_tingkat_lanjut." alt="Line 2" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&color=b366ff&vCenter=true&width=550&height=30&lines=%3E_Beroperasi_sebagai_Freelance_Web_Developer." alt="Line 3" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&color=b366ff&vCenter=true&width=550&height=30&lines=%3E_sekaligus_UI%2FUX_Designer_di_jalur_evolusi." alt="Line 4" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&color=ffffff&vCenter=true&width=550&height=30&lines=%3E_Proses_intensif_tanpa_kenal_henti." alt="Line 5" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&color=ffffff&vCenter=true&width=550&height=30&lines=%3E_Setiap_baris_kode_didedikasikan_penuh." alt="Line 6" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&color=b366ff&vCenter=true&width=550&height=30&lines=%3E_Transformasi_menuju_Elite_Professional." alt="Line 7" />
 </p>
 
 <p align="center">
-  <!-- Core Neon Berputar -->
-  <img src="https://assets.digitalocean.com/blog/custom-images/how-to-build-a-glowing-effect-with-css/glowing-neon-ring.gif" width="140" alt="Cyber Core" />
+  <!-- Neon Core Ring Hologram -->
+  <img src="https://assets.digitalocean.com/blog/custom-images/how-to-build-a-glowing-effect-with-css/glowing-neon-ring.gif" width="130" alt="Cyber Core" />
 </p>
 
 ---
 
-<!-- ==========================================
-     [ 5. TECH ARSENAL (HOLOGRAPHIC STYLE) ] 
-     ========================================== -->
-<h3 align="center">🔮 TECH ARSENAL</h3>
+<!-- ================================================================= -->
+<!-- [05. CORE TECH ARSENAL (HOLOGRAPHIC STACK)]                       -->
+<!-- ================================================================= -->
+<h3 align="center"><code>🔮 [ TECH_ARSENAL_MODULES ]</code></h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -70,27 +67,26 @@
 
 ---
 
-<!-- ==========================================
-     [ 6. SYSTEM QUANTUM TELEMETRY (GELOMBANG TEKNOLOGI UNGU) ] 
-     ========================================== -->
-<h3 align="center">📊 SYSTEM QUANTUM TELEMETRY</h3>
+<!-- ================================================================= -->
+<!-- [06. QUANTUM TELEMETRY SYSTEM]                                    -->
+<!-- ================================================================= -->
+<h3 align="center"><code>📊 [ QUANTUM_ACTIVITY_TELEMETRY ]</code></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE_%2F%2F_ACTIVE_DEV-b366ff?style=for-the-badge&labelColor=1a0033" alt="System Online" />
-  <img src="https://img.shields.io/badge/CORE-STABLE_%2F%2F_NO_ERRORS-1a0033?style=for-the-badge&labelColor=b366ff&logoColor=1a0033" alt="Core Stable" />
+  <img src="https://img.shields.io/badge/TELEMETRY-STREAM_ACTIVE-b366ff?style=for-the-badge&labelColor=0f001e" alt="Telemetry Active" />
+  <img src="https://img.shields.io/badge/SECURITY-BYPASSED-0f001e?style=for-the-badge&labelColor=b366ff&logoColor=0f001e" alt="Security Bypassed" />
 </p>
 
 <p align="center">
-  <!-- Grafik Aktivitas dengan Latar Ungu Gelap Menawan -->
+  <!-- Grafik Aktivitas Aman 100% dan Menyatu dengan Tema Ungu -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaridNst&bg_color=0f001e&color=b366ff&line=ffffff&point=b366ff&area=true&hide_border=true&border_radius=5" width="100%" alt="Quantum Activity Graph" />
 </p>
 
 ---
 
-<!-- ==========================================
-     [ 7. FUTURISTIC TECH DIVIDER & FOOTER ] 
-     ========================================== -->
+<!-- ================================================================= -->
+<!-- [07. CYBERPUNK FOOTER GATEWAY]                                   -->
+<!-- ================================================================= -->
 <p align="center">
-  <!-- Efek gelombang teknologi ungu di bagian penutup -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1a0033,4b0082,b366ff&height=60&section=footer&text=THE%20FUTURE%20IS%20NOW&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%" alt="Tech Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0f001e&customColorList=0f001e,4b0082,b366ff&height=40&section=footer&text=END_OF_LINE_%2F%2F_STAY_ELITE&fontSize=14&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer" />
 </p>
