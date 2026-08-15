@@ -80,38 +80,30 @@
 ### 📊 REAL-TIME QUANTUM DATA
 
 <p align="center">
-  <!-- Animasi Loading Data -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&color=b366ff&center=true&vCenter=true&width=500&height=30&lines=System.out.println(%22Fetching+Quantum+Telemetry...%22);Data+Retrieved+Successfully+_+100%25" alt="Loading Stats" />
+  <!-- Animasi Loading -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&color=b366ff&center=true&vCenter=true&width=500&height=30&lines=Fetching+Quantum+Telemetry...;Data+Retrieved+Successfully+_+100%25" alt="Loading Stats" />
 </p>
 
 <!-- 1. GITHUB TROPHIES (Gamifikasi Pencapaian) -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BaridNst&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title_color=b366ff&text_color=ffffff" alt="Trophy" />
+  <a href="https://github.com/BaridNst">
+    <img src="https://github-profile-trophy.vercel.app/?username=BaridNst&theme=radical&margin-w=15&no-bg=true&no-frame=true" alt="Trophy" />
   </a>
 </p>
 
-<!-- 2. STATS & STREAK (Bersebelahan) -->
+<!-- 2. STATS & STREAK (Bersebelahan Secara Natural) -->
 <p align="center">
-  <!-- Stats Card (Ditambah parameter hitung Private Commits) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=radical&title_color=b366ff&text_color=ffffff&icon_color=b366ff&bg_color=0f001e&hide_border=true&border_radius=5&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak (Menampilkan konsistensi coding) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaridNst&theme=radical&fire=b366ff&ring=b366ff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&bg_color=0f001e&hide_border=true&border_radius=5" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=radical&title_color=b366ff&text_color=ffffff&icon_color=b366ff&bg_color=0f001e&hide_border=true&border_radius=5" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaridNst&theme=radical&fire=b366ff&ring=b366ff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&bg_color=0f001e&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </p>
 
-<!-- 3. TOP LANGUAGES (Rata Tengah) -->
+<!-- 3. TOP LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=radical&title_color=b366ff&text_color=ffffff&bg_color=0f001e&hide_border=true&border_radius=5&langs_count=6" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=radical&title_color=b366ff&text_color=ffffff&bg_color=0f001e&hide_border=true&border_radius=5&langs_count=6" alt="Top Languages" />
 </p>
 
-<!-- 4. ACTIVITY GRAPH (Lebar Penuh) -->
+<!-- 4. ACTIVITY GRAPH (Ini dibiarkan full karena format aslimu) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaridNst&bg_color=0f001e&color=b366ff&line=ffffff&point=b366ff&area=true&hide_border=true&border_radius=5" width="100%" alt="Quantum Activity Graph" />
-</p>
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=b366ff&height=30&section=footer" width="100%" alt="Footer" />
 </p>
