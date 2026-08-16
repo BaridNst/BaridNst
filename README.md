@@ -1,6 +1,6 @@
 <!-- 1. SPANDUK UTAMA: GELOMBANG GRADASI UNGU-PUTIH (DI-UPGRADE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f001e&customColorList=1a0033,4b0082,b366ff,ffffff&height=230&section=header&text=%E2%9C%A7%20BARID%20NASUTION%20-%20TEKNOLOGI%20INFORMASI%20%E2%9C%A7&fontSize=40&fontColor=ffffff&animation=twinkling&desc=SYSTEM%20EVOLUTION%20%7C%20ACTIVE%20OVERLORD&descAlignY=75&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f001e&customColorList=1a0033,4b0082,b366ff,ffffff&height=230&section=header&text=%E2%9C%A7%20BARID%20NASUTION%20-%20TEKNOLOGI%20INFORMASI%20%E2%9C%A7&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Growing%20Through%20Innovation&descAlignY=75&descAlign=50" width="100%" alt="Header" />
 </p>
 
 <!-- 2. STATUS BADGES & CONNECTIONS (CLEAN & MODERN GLOW) -->
