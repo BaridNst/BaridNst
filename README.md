@@ -14,24 +14,38 @@
 <!--                         STATUS                               -->
 <!-- ============================================================ -->
 
-<p align="center">
+<table align="center">
+<tr>
 
-  <img
-    src="https://img.shields.io/badge/STAGE-EVOLUTION_MODE-ffffff?style=for-the-badge&labelColor=5b00a8"
-    alt="Stage"
-  />
+<td align="center">
 
-  <img
-    src="https://img.shields.io/badge/ROLE-TECH_OVERLORD-ffffff?style=for-the-badge&labelColor=7220c7"
-    alt="Role"
-  />
+<img
+  src="https://img.shields.io/badge/STAGE-EVOLUTION_MODE-ffffff?style=for-the-badge&labelColor=5b00a8"
+  alt="Stage"
+/>
 
-  <img
-    src="https://img.shields.io/badge/STATUS-ON_PROGRESS-ffffff?style=for-the-badge&labelColor=914cff"
-    alt="Status"
-  />
+</td>
 
-</p>
+<td align="center">
+
+<img
+  src="https://img.shields.io/badge/ROLE-TECH_OVERLORD-ffffff?style=for-the-badge&labelColor=7220c7"
+  alt="Role"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+  src="https://img.shields.io/badge/STATUS-ON_PROGRESS-ffffff?style=for-the-badge&labelColor=914cff"
+  alt="Status"
+/>
+
+</td>
+
+</tr>
+</table>
 
 <!-- ============================================================ -->
 <!--                       CONNECTIONS                            -->
@@ -41,28 +55,28 @@
 
   <a href="mailto:emailkamu@gmail.com">
     <img
-      src="https://img.shields.io/badge/SECURE_MAIL-ffffff?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=5b00a8"
+      src="https://img.shields.io/badge/SECURE_MAIL-0f001e?style=flat-square&logo=gmail&logoColor=b366ff&color=1a0033"
       alt="Email"
     />
   </a>
 
   <a href="https://linkedin.com/in/linkedin-kamu">
     <img
-      src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=7220c7"
+      src="https://img.shields.io/badge/LINKEDIN-0f001e?style=flat-square&logo=linkedin&logoColor=b366ff&color=1a0033"
       alt="LinkedIn"
     />
   </a>
 
   <a href="https://portofoliobangbarid.vercel.app/">
     <img
-      src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=8137db"
+      src="https://img.shields.io/badge/PORTFOLIO-0f001e?style=flat-square&logo=vercel&logoColor=b366ff&color=1a0033"
       alt="Portfolio"
     />
   </a>
 
   <a href="https://instagram.com/a.baridnasution">
     <img
-      src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=flat-square&logo=instagram&logoColor=ffffff&labelColor=914cff"
+      src="https://img.shields.io/badge/INSTAGRAM-0f001e?style=flat-square&logo=instagram&logoColor=b366ff&color=1a0033"
       alt="Instagram"
     />
   </a>
@@ -157,7 +171,7 @@
 <p align="center">
 
   <img
-    src="https://skillicons.dev/icons?i=js,ts,php,python,dart,react,nextjs,laravel,flutter,tailwind,mysql,figma,github,vscode&theme=dark&perline=7"
+    src="https://skillicons.dev/icons?i=js,ts,php,python,dart,react,nextjs,laravel,flutter,tailwind,mysql,figma,github,vscode&theme=dark&perline=14"
     alt="Tech Stack"
   />
 
@@ -176,24 +190,38 @@
 
 ## 📊 REAL-TIME QUANTUM DATA
 
-<p align="center">
+<table align="center">
+<tr>
 
-  <img
-    src="https://img.shields.io/badge/%E2%97%8F%20LIVE-TELEMETRY-ffffff?style=for-the-badge&labelColor=5b00a8"
-    alt="Live Telemetry"
-  />
+<td align="center">
 
-  <img
-    src="https://img.shields.io/badge/%E2%89%AB%20SYSTEM-ONLINE-ffffff?style=for-the-badge&labelColor=7220c7"
-    alt="System Online"
-  />
+<img
+  src="https://img.shields.io/badge/%E2%97%8F%20LIVE-TELEMETRY-ffffff?style=for-the-badge&labelColor=5b00a8"
+  alt="Live Telemetry"
+/>
 
-  <img
-    src="https://img.shields.io/badge/%E2%9C%A6%20EVOLUTION-ACTIVE-ffffff?style=for-the-badge&labelColor=914cff"
-    alt="Evolution Active"
-  />
+</td>
 
-</p>
+<td align="center">
+
+<img
+  src="https://img.shields.io/badge/%E2%89%AB%20SYSTEM-ONLINE-ffffff?style=for-the-badge&labelColor=7220c7"
+  alt="System Online"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+  src="https://img.shields.io/badge/%E2%9C%A6%20EVOLUTION-ACTIVE-ffffff?style=for-the-badge&labelColor=914cff"
+  alt="Evolution Active"
+/>
+
+</td>
+
+</tr>
+</table>
 
 <!-- ============================================================ -->
 <!--                    ACTIVITY GRAPH                            -->
