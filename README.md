@@ -118,6 +118,10 @@
 
 ## 📊 REAL-TIME QUANTUM DATA
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=10&color=914cff&center=true&vCenter=true&width=560&height=18&duration=2200&pause=500&repeat=true&cursor=true&cursorStyle=%E2%96%8B&lines=%5B+FETCHING+LIVE+METRICS+FROM+GITHUB+CORE+%5D;%5B+RENDERING+QUANTUM+DASHBOARD+%5D;%5B+ALL+SYSTEMS+SYNCED+%5D" alt="Fetching" />
+</p>
+
 <table align="center">
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-TELEMETRY-ffffff?style=for-the-badge&labelColor=5b00a8" alt="Live Telemetry" /></td>
@@ -126,18 +130,42 @@
 </tr>
 </table>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=radical&bg_color=12001f&title_color=b875ff&icon_color=914cff&text_color=e9ddff&border_color=52009a&border_radius=10" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BaridNst&theme=radical&background=12001f&stroke=52009a&ring=914cff&fire=b875ff&currStreakLabel=e9ddff&border_radius=10" alt="GitHub Streak" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=radical&bg_color=12001f&title_color=b875ff&text_color=e9ddff&border_color=52009a&border_radius=10" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaridNst&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b00a8,100:914cff&height=3&width=100%25" width="100%" alt="cardtop" /><br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=radical&bg_color=12001f&title_color=b875ff&icon_color=914cff&text_color=e9ddff&border_color=52009a&border_radius=12&hide_border=false&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:914cff,100:5b00a8&height=3&width=100%25" width="100%" alt="cardtop" /><br/>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=BaridNst&theme=radical&background=12001f&stroke=52009a&ring=914cff&fire=b875ff&currStreakLabel=e9ddff&sideLabels=e9ddff&sideNums=e9ddff&dates=8a7ba8&border_radius=12&border=52009a" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:52009a,50:914cff,100:52009a&height=3&width=60%25" alt="midline" /><br/><br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=radical&bg_color=12001f&title_color=b875ff&text_color=e9ddff&border_color=52009a&border_radius=12&hide_border=false&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:19002d,100:52009a&height=30&width=60%25" alt="trophydivider" />
+
+<br/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=BaridNst&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=6&row=1" alt="Trophies" />
+
+</div>
 
 <!-- ============================================================ -->
 <!--                    ACTIVITY GRAPH                            -->
