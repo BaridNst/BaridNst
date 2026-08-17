@@ -4,10 +4,20 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=08000f&customColorList=19002d,350052,52009a,7025c7,914cff,bf8aff&height=205&section=header&text=%E2%9C%A7%20BARID%20NASUTION%20-%20TEKNOLOGI%20INFORMASI%20%E2%9C%A7&fontSize=37&fontColor=ffffff&animation=twinkling&desc=Growing%20Through%20Innovation&descSize=15&descAlignY=72"
+    src="https://capsule-render.vercel.app/api?type=waving&color=08000f&customColorList=19002d,350052,52009a,7025c7,914cff,bf8aff&height=220&section=header&text=%E2%9C%A7%20BARID%20NASUTION%20-%20TEKNOLOGI%20INFORMASI%20%E2%9C%A7&fontSize=37&fontColor=ffffff&animation=fadeIn&desc=Growing%20Through%20Innovation&descSize=15&descAlignY=72&fontAlignY=38"
     width="100%"
     alt="Barid Nasution"
   />
+</p>
+
+<!-- top transition divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:19002d,50:52009a,100:914cff&height=3&width=100%25" width="100%" alt="divider" />
+</p>
+
+<!-- visitor / pulse counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BaridNst&label=PROFILE%20VIEWS&color=914cff&style=for-the-badge&labelColor=19002d" alt="Profile Views" />
 </p>
 
 <!-- ============================================================ -->
@@ -105,6 +115,11 @@
 
 </p>
 
+<!-- soft wave transition into next section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:19002d,100:914cff&height=25&width=100%25&section=header" width="100%" alt="transition" />
+</p>
+
 ---
 
 ## 🌌 THE EVOLUTION MATRIX
@@ -164,6 +179,10 @@
 
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:52009a,100:19002d&height=25&width=100%25&section=footer" width="100%" alt="transition" />
+</p>
+
 ---
 
 ## 🔮 MY STACK
@@ -184,6 +203,10 @@
     alt="Technology Matrix"
   />
 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:914cff,50:52009a,100:19002d&height=3&width=100%25" width="100%" alt="divider" />
 </p>
 
 ---
@@ -223,6 +246,21 @@
 </tr>
 </table>
 
+<!-- animated stats + streak side by side -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BaridNst&show_icons=true&theme=radical&bg_color=12001f&title_color=b875ff&icon_color=914cff&text_color=e9ddff&border_color=52009a&border_radius=10&hide_border=false" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BaridNst&theme=radical&background=12001f&stroke=52009a&ring=914cff&fire=b875ff&currStreakLabel=e9ddff&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaridNst&layout=compact&theme=radical&bg_color=12001f&title_color=b875ff&text_color=e9ddff&border_color=52009a&border_radius=10&hide_border=false" alt="Top Languages" />
+</p>
+
+<!-- animated trophy row -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BaridNst&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies" />
+</p>
+
 <!-- ============================================================ -->
 <!--                    ACTIVITY GRAPH                            -->
 <!-- ============================================================ -->
@@ -236,6 +274,15 @@
   />
 
 </p>
+
+<!-- contribution snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BaridNst/BaridNst/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</p>
+
+<blockquote align="center">
+&nbsp;&nbsp;Aktifkan workflow <code>snk</code> di repo profil kamu agar animasi ular kontribusi di atas benar-benar bergerak (lihat catatan di bawah).
+</blockquote>
 
 <!-- ============================================================ -->
 <!--                  CONTINUOUS LIVE MOTION                     -->
@@ -259,6 +306,11 @@
 
 </p>
 
+<!-- pre-footer transition -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:19002d,100:914cff&height=30&width=100%25&section=header&reversal=true" width="100%" alt="transition" />
+</p>
+
 <!-- ============================================================ -->
 <!--                         FOOTER                               -->
 <!-- ============================================================ -->
@@ -275,7 +327,7 @@
 <p align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=08000f&customColorList=19002d,350052,52009a,7025c7,914cff,bf8aff&height=95&section=footer&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=08000f&customColorList=19002d,350052,52009a,7025c7,914cff,bf8aff&height=110&section=footer&animation=twinkling"
     width="100%"
     alt="Footer"
   />
