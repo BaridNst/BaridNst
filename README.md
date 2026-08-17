@@ -135,11 +135,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BaridNst/BaridNst/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </p>
-
-<blockquote align="center">
-&nbsp;&nbsp;⚡ Animasi ular kontribusi + quote dinamis di atas butuh <b>GitHub Action</b> yang jalan otomatis tiap hari di repo profil kamu (<code>BaridNst/BaridNst</code>). Bilang aja kalau mau aku buatkan file workflow-nya (<code>snk</code> untuk snake) sekalian, biar langsung aktif.
-</blockquote>
-
 <!-- ============================================================ -->
 <!--                  CONTINUOUS LIVE MOTION                     -->
 <!-- ============================================================ -->
